@@ -1,0 +1,189 @@
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\appsettings.json
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\BingoVS.exe
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\BingoVS.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\joaor\Documents\BingoVS\BingoVS\obj\Debug\net6.0\ref\BingoVS.dll
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.dll
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\appsettings.json
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\BingoVS.exe
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\BingoVS.dll
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaor\Desktop\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\joaor\Desktop\BingoVS Final2\obj\Debug\net6.0\ref\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.exe
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\rafae\Downloads\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\ref\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.exe
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\rafae\Downloads\BingoVS_Quase lá\BingoVS_Final22\BingoVS Final2\obj\Debug\net6.0\ref\BingoVS.dll
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.dll
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\appsettings.json
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\BingoVS.exe
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\BingoVS.dll
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Informa\Documents\jaoQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\Informa\Documents\jaoQ\obj\Debug\net6.0\ref\BingoVS.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\BingoVS.exe
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\jaoQ\jaoQ\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\rafae\Downloads\jaoQ\jaoQ\obj\Debug\net6.0\ref\BingoVS.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\BingoVS.exe
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\BingoVS.deps.json
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\BingoVS.runtimeconfig.json
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\scopedcss\bundle\BingoVS.styles.css
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.csproj.CopyComplete
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\refint\BingoVS.dll
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.pdb
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\BingoVS.genruntimeconfig.cache
+C:\Users\rafae\Downloads\Bingo.API\Bingo.API\obj\Debug\net6.0\ref\BingoVS.dll
